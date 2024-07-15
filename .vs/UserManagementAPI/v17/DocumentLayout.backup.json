@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\dell\\source\\repos\\usermanagementapi\\usermanagementapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\dell\\source\\repos\\usermanagementapi\\usermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\dell\\source\\repos\\usermanagementapi\\usermanagementapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\dell\\source\\repos\\usermanagementapi\\usermanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\dell\\source\\repos\\usermanagementapi\\usermanagementapi\\usermanagementapi.tests\\unittests\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\usermanagementapi.tests\\unittests\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\dell\\source\\repos\\usermanagementapi\\usermanagementapi\\usermanagementapi.tests\\integrationtests\\usercontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\usermanagementapi.tests\\integrationtests\\usercontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\dell\\source\\repos\\usermanagementapi\\usermanagementapi\\usermanagementapi.tests\\usermanagementapi.tests.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\usermanagementapi.tests\\usermanagementapi.tests.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\dell\\source\\repos\\usermanagementapi\\usermanagementapi\\usermanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\usermanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\dell\\source\\repos\\usermanagementapi\\usermanagementapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\dell\\source\\repos\\usermanagementapi\\usermanagementapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\dell\\source\\repos\\usermanagementapi\\usermanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\dell\\source\\repos\\usermanagementapi\\usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\dell\\source\\repos\\usermanagementapi\\usermanagementapi\\usermanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\usermanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|c:\\users\\dell\\source\\repos\\usermanagementapi\\usermanagementapi\\usermanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A7F15F0-415D-4F0D-A4AE-F6BA851A949D}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\usermanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserManagementAPI.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.Tests\\UserManagementAPI.Tests.csproj",
+              "RelativeDocumentMoniker": "UserManagementAPI\\UserManagementAPI.Tests\\UserManagementAPI.Tests.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.Tests\\UserManagementAPI.Tests.csproj",
+              "RelativeToolTip": "UserManagementAPI\\UserManagementAPI.Tests\\UserManagementAPI.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T14:46:08.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.Tests\\UnitTests\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\UserManagementAPI.Tests\\UnitTests\\UserServiceTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.Tests\\UnitTests\\UserServiceTests.cs",
+              "RelativeToolTip": "UserManagementAPI\\UserManagementAPI.Tests\\UnitTests\\UserServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:41:34.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControllerIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.Tests\\IntegrationTests\\UserControllerIntegrationTests.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\UserManagementAPI.Tests\\IntegrationTests\\UserControllerIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.Tests\\IntegrationTests\\UserControllerIntegrationTests.cs",
+              "RelativeToolTip": "UserManagementAPI\\UserManagementAPI.Tests\\IntegrationTests\\UserControllerIntegrationTests.cs",
+              "ViewState": "AgIAADAAAAAANzMzMzPzvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:40:56.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Models\\User.cs",
+              "RelativeToolTip": "UserManagementAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:26:19.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UserManagementAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:27:47.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserManagementAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:22:48.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "UserManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\appsettings.json",
+              "RelativeToolTip": "UserManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T14:35:16.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserManagementAPI",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj",
+              "RelativeDocumentMoniker": "UserManagementAPI\\UserManagementAPI.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj",
+              "RelativeToolTip": "UserManagementAPI\\UserManagementAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T14:35:43.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UserManagementAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\appsettings.Development.json",
+              "RelativeToolTip": "UserManagementAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T14:35:19.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Program.cs",
+              "RelativeToolTip": "UserManagementAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:31:59.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Services\\IUserService.cs",
+              "RelativeToolTip": "UserManagementAPI\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:25:16.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "UserManagementAPI\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "UserManagementAPI\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:24:26.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserManagementAPI.http",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.http",
+              "RelativeDocumentMoniker": "UserManagementAPI\\UserManagementAPI.http",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.http",
+              "RelativeToolTip": "UserManagementAPI\\UserManagementAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-14T14:34:44.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserManagementAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj",
+              "RelativeDocumentMoniker": "UserManagementAPI\\UserManagementAPI.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj",
+              "RelativeToolTip": "UserManagementAPI\\UserManagementAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T14:23:52.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
